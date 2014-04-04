@@ -1,0 +1,1884 @@
+Archive member included because of file (symbol)
+
+E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+                              build\GPS_Receiver.o (TinyGPS::TinyGPS())
+E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(DefaultFonts.c.o)
+                              build\GPS_Receiver.o (TinyFont)
+E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                              build\GPS_Receiver.o (LCD5110::update())
+E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                              build\GPS_Receiver.o (Serial)
+E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(main.cpp.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o (main)
+E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(new.cpp.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o) (__cxa_pure_virtual)
+E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o) (Print::write(unsigned char const*, unsigned int))
+E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring.c.o)
+                              build\GPS_Receiver.o (millis)
+E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring_digital.c.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o) (pinMode)
+E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o) (String::operator[](unsigned int) const)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o) (__subsf3)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan2.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o) (atan2)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan2.o) (atan)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o) (__eqsf2)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cos.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o) (cos)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o) (__divsf3)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o) (__fixsfsi)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o) (__fixunssfsi)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o) (__floatunsisf)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o) (__fp_powser)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cos.o) (__fp_rempio2)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cos.o) (__fp_sinus)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o) (__gtsf2)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(inverse.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o) (inverse)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o) (__mulsf3)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o) (__mulsf3x)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sin.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o) (sin)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sqrt.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o) (sqrt)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(square.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o) (square)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o) (__unordsf2)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_rempio2.o) (__fp_mpack)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sqrt.o) (__fp_norm2)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_sinus.o) (__fp_powsodd)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o) (__mulsi3)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o) (__divmodhi4)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o) (__udivmodsi4)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o) (__divmodsi4)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o (exit)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              build\GPS_Receiver.o (__do_copy_data)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              build\GPS_Receiver.o (__do_clear_bss)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+                              build\GPS_Receiver.o (__do_global_ctors)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_tablejump.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o) (__tablejump__)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(dtostrf.o)
+                              build\GPS_Receiver.o (dtostrf)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(new.cpp.o) (malloc)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o) (realloc)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atoi.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o) (atoi)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atol.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o) (atol)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(isspace.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o) (isspace)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(tolower.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o) (tolower)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(toupper.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o) (toupper)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o) (memcpy)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memmove.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o) (memmove)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o) (strchr)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o) (strcmp)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o) (strcpy)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncmp.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o) (strncmp)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o) (strncpy)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrchr.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o) (strrchr)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o) (strstr)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o) (itoa)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o) (ltoa)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsi10.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atol.o) (__mulsi_const_10)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mul10.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atoi.o) (__mulhi_const_10)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o) (ultoa)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(utoa.o)
+                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o) (utoa)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(dtoa_prf.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(dtostrf.o) (dtoa_prf)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(dtoa_prf.o) (__ftoa_engine)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(isspace.o) (__ctype_isfalse)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o) (strrev)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o) (__prologue_saves__)
+e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o) (__epilogue_restores__)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+__flp               0x2               e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ .text          0x00000000        0x0 build\GPS_Receiver.o
+ .bss           0x00000000        0x0 build\GPS_Receiver.o
+ .text          0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+ .bss           0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+ .text._ZN7TinyGPSC2Ev
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+ .text._ZN7TinyGPS7gpsatolEPKc
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+ .text._ZN7TinyGPS9gpsstrcmpEPKcS1_
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+ .text._ZN7TinyGPS8cardinalEf
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+ .text._ZN7TinyGPS8f_courseEv
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+ .text._ZN7TinyGPS11f_speed_mphEv
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+ .text._ZN7TinyGPS11f_speed_mpsEv
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+ .text._ZN7TinyGPS12get_datetimeEPmS0_S0_
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+ .text._ZN7TinyGPS14crack_datetimeEPiPhS1_S1_S1_S1_S1_Pm
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+ .text._ZN7TinyGPS9course_toEffff
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+ .text._ZN7TinyGPS16distance_betweenEffff
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+ .rodata._ZN7TinyGPS19GPS_INVALID_F_ANGLEE
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+ .rodata._ZN7TinyGPS22GPS_INVALID_F_ALTITUDEE
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+ .rodata._ZN7TinyGPS19GPS_INVALID_F_SPEEDE
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+ .rodata._ZZN7TinyGPS8cardinalEfE10directions
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+ .text          0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(DefaultFonts.c.o)
+ .data          0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(DefaultFonts.c.o)
+ .bss           0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(DefaultFonts.c.o)
+ .text          0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .data          0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .bss           0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD511011setContrastEi
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD51106clrScrEv
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD51107fillScrEv
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD51106invertEb
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD51108invPixelEjj
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD511010invertTextEb
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD51109drawHLineEiii
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD51108clrHLineEiii
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD51109drawVLineEiii
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD51108clrVLineEiii
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD51108drawLineEiiii
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD51107clrLineEiiii
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD51108drawRectEiiii
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD51107clrRectEiiii
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD511013drawRoundRectEiiii
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD511012clrRoundRectEiiii
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD511010drawCircleEiii
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD51109clrCircleEiii
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD511010drawBitmapEiiPhii
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD51109printNumIEliiic
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD51105printE6Stringii
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD5110C2Eiiiii
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD511014_convert_floatEPcdih
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text._ZN7LCD51109printNumFEdhiicic
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+ .text          0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+ .data          0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+ .bss           0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+ .text._ZN14HardwareSerialC2EP11ring_bufferS1_PVhS3_S3_S3_S3_S3_hhhhh
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+ .text._ZN14HardwareSerialC1EP11ring_bufferS1_PVhS3_S3_S3_S3_S3_hhhhh
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+ .text._ZN14HardwareSerial5beginEmh
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+ .text._ZN14HardwareSerial3endEv
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+ .text._ZN14HardwareSerialcvbEv
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+ .rodata._ZTV6Stream
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+ .text          0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(main.cpp.o)
+ .data          0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(main.cpp.o)
+ .bss           0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(main.cpp.o)
+ .text          0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(new.cpp.o)
+ .data          0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(new.cpp.o)
+ .bss           0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(new.cpp.o)
+ .text.__cxa_guard_acquire
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(new.cpp.o)
+ .text.__cxa_guard_release
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(new.cpp.o)
+ .text.__cxa_guard_abort
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(new.cpp.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(new.cpp.o)
+ .text._ZdaPv   0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(new.cpp.o)
+ .text._ZdlPv   0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(new.cpp.o)
+ .text._Znaj    0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(new.cpp.o)
+ .text._Znwj    0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(new.cpp.o)
+ .text          0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .data          0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .bss           0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5printEc
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnEv
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnEc
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5writeEPKc
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print11printNumberEmh
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5printEmi
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5printEji
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnEji
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5printEhi
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnEhi
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5printEli
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnEli
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5printEii
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnEii
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5printEPKc
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print10printFloatEdh
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5printEdi
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnEPKc
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print5printERK6String
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .rodata._ZTV5Print
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+ .text          0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring.c.o)
+ .data          0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring.c.o)
+ .bss           0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring.c.o)
+ .text.delayMicroseconds
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring.c.o)
+ .text          0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring_digital.c.o)
+ .data          0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring_digital.c.o)
+ .bss           0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring_digital.c.o)
+ .text.turnOffPWM
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring_digital.c.o)
+ .text.digitalWrite
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring_digital.c.o)
+ .text.digitalRead
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring_digital.c.o)
+ .text          0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .data          0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .bss           0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String6charAtEj
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String9setCharAtEjc
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringixEj
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6StringixEj
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String7replaceEcc
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String5toIntEv
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String4trimEv
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String11toUpperCaseEv
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String11toLowerCaseEv
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String16equalsIgnoreCaseERKS_
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String11lastIndexOfERKS_j
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String11lastIndexOfERKS_
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String7indexOfERKS_j
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String7indexOfERKS_
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String11lastIndexOfEcj
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String11lastIndexOfEc
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String7indexOfEcj
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String7indexOfEc
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String8getBytesEPhjj
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String8endsWithERKS_
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String6equalsEPKc
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String9compareToERKS_
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6StringgeERKS_
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6StringleERKS_
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6StringgtERKS_
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6StringltERKS_
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String6equalsERKS_
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String10startsWithERKS_j
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String10startsWithERKS_
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String12changeBufferEj
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String7replaceERKS_S1_
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String7reserveEj
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String6concatEPKcj
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String6concatEm
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String6concatEl
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String6concatEj
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String6concatEi
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String6concatEh
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String6concatEc
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String6concatEPKc
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String6concatERKS_
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String10invalidateEv
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZplRK15StringSumHelperm
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZplRK15StringSumHelperl
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZplRK15StringSumHelperj
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZplRK15StringSumHelperi
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZplRK15StringSumHelperh
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZplRK15StringSumHelperc
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZplRK15StringSumHelperPKc
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZplRK15StringSumHelperRK6String
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6String4copyEPKcj
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC1EPKc
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC2EPKc
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringaSEPKc
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC1Emh
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC2Emh
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC1Elh
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC2Elh
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC1Ejh
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC2Ejh
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC1Eih
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC2Eih
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC1Ehh
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC2Ehh
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC1Ec
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC2Ec
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String9substringEjj
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZNK6String9substringEj
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringaSERKS_
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC1ERKS_
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringC2ERKS_
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringD1Ev
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text._ZN6StringD2Ev
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .bss._ZZN6StringixEjE19dummy_writable_char
+                0x00000000        0x0 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan2.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan2.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan2.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan2.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o)
+ .progmem.gcc_fplib
+                0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cos.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cos.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cos.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cos.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
+ .progmem.gcc_fplib
+                0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(inverse.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(inverse.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(inverse.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(inverse.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sin.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sin.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sin.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sin.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sqrt.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sqrt.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sqrt.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sqrt.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(square.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(square.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(square.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(square.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
+ .text.fplib    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_tablejump.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_tablejump.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_tablejump.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(dtostrf.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(dtostrf.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+ COMMON         0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atoi.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atoi.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atol.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atol.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atol.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .text.ctype    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .text.ctype    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(tolower.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .text.ctype    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(toupper.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memmove.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memmove.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memmove.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncmp.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncmp.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncmp.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrchr.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrchr.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrchr.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsi10.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsi10.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsi10.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mul10.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mul10.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(utoa.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(utoa.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(utoa.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(dtoa_prf.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(dtoa_prf.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .text.ctype    0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+LOAD build\GPS_Receiver.o
+LOAD E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a
+LOAD E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a
+LOAD e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a
+LOAD e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2dba
+ *(.vectors)
+ .vectors       0x00000000       0x68 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table
+                0x00000068       0x52 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+ *(.progmem*)
+ .progmem.data  0x000000ba      0x6c1 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(DefaultFonts.c.o)
+                0x000000ba                SmallFont
+                0x000002f8                MediumNumbers
+                0x00000434                BigNumbers
+                0x0000065a                TinyFont
+ .progmem.data  0x0000077b       0x5a E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring_digital.c.o)
+                0x0000077b                port_to_mode_PGM
+                0x00000799                digital_pin_to_port_PGM
+                0x000007ad                digital_pin_to_bit_mask_PGM
+                0x00000785                port_to_output_PGM
+                0x0000078f                port_to_input_PGM
+                0x000007c1                digital_pin_to_timer_PGM
+ .progmem.data  0x000007d5       0xfa e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+                0x000008d0                . = ALIGN (0x2)
+ *fill*         0x000008cf        0x1 00
+                0x000008d0                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000008d0        0x0 linker stubs
+ *(.trampolines*)
+                0x000008d0                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000008d0                __ctors_start = .
+ *(.ctors)
+ .ctors         0x000008d0        0x2 build\GPS_Receiver.o
+ .ctors         0x000008d2        0x2 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                0x000008d4                __ctors_end = .
+                0x000008d4                __dtors_start = .
+ *(.dtors)
+                0x000008d4                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000008d4        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                0x000008d4                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000008d4        0xc e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000008e0       0x16 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x000008e0                __do_copy_data
+ .init4         0x000008f6       0x10 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x000008f6                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x00000906       0x16 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+                0x00000906                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000091c        0x8 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000924        0x4 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                0x00000924                __vector_22
+                0x00000924                __vector_1
+                0x00000924                __vector_24
+                0x00000924                __vector_12
+                0x00000924                __bad_interrupt
+                0x00000924                __vector_6
+                0x00000924                __vector_3
+                0x00000924                __vector_23
+                0x00000924                __vector_25
+                0x00000924                __vector_11
+                0x00000924                __vector_13
+                0x00000924                __vector_17
+                0x00000924                __vector_7
+                0x00000924                __vector_5
+                0x00000924                __vector_4
+                0x00000924                __vector_9
+                0x00000924                __vector_2
+                0x00000924                __vector_21
+                0x00000924                __vector_15
+                0x00000924                __vector_8
+                0x00000924                __vector_14
+                0x00000924                __vector_10
+                0x00000924                __vector_20
+ .text          0x00000928       0x42 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(dtostrf.o)
+                0x00000928                dtostrf
+ .text          0x0000096a       0x3c e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atoi.o)
+                0x0000096a                atoi
+ .text          0x000009a6       0x10 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mul10.o)
+                0x000009a6                __mulhi_const_10
+ .text          0x000009b6      0x2c4 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(dtoa_prf.o)
+                0x000009b6                dtoa_prf
+ .text          0x00000c7a      0x1b0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+                0x00000c7a                __ftoa_engine
+                0x00000e2a                . = ALIGN (0x2)
+ *(.text.*)
+ .text._GLOBAL__I_gps
+                0x00000e2a       0x38 build\GPS_Receiver.o
+ .text.loop     0x00000e62      0x1c0 build\GPS_Receiver.o
+                0x00000e62                loop
+ .text.setup    0x00001022       0x32 build\GPS_Receiver.o
+                0x00001022                setup
+ .text._ZN7TinyGPSC1Ev
+                0x00001054       0x9a E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+                0x00001054                TinyGPS::TinyGPS()
+ .text._ZN7TinyGPS5statsEPmPtS1_
+                0x000010ee       0x58 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+                0x000010ee                TinyGPS::stats(unsigned long*, unsigned short*, unsigned short*)
+ .text._ZN7TinyGPS8from_hexEc
+                0x00001146       0x30 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+                0x00001146                TinyGPS::from_hex(char)
+ .text._ZN7TinyGPS13parse_decimalEv
+                0x00001176      0x106 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+                0x00001176                TinyGPS::parse_decimal()
+ .text._ZN7TinyGPS13parse_degreesEv
+                0x0000127c      0x17e E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+                0x0000127c                TinyGPS::parse_degrees()
+ .text._ZN7TinyGPS10f_altitudeEv
+                0x000013fa       0x46 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+                0x000013fa                TinyGPS::f_altitude()
+ .text._ZN7TinyGPS13f_speed_knotsEv
+                0x00001440       0x46 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+                0x00001440                TinyGPS::f_speed_knots()
+ .text._ZN7TinyGPS12f_speed_kmphEv
+                0x00001486       0x54 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+                0x00001486                TinyGPS::f_speed_kmph()
+ .text._ZN7TinyGPS12get_positionEPlS0_Pm
+                0x000014da       0x90 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+                0x000014da                TinyGPS::get_position(long*, long*, unsigned long*)
+ .text._ZN7TinyGPS14f_get_positionEPfS0_Pm
+                0x0000156a       0xfa E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+                0x0000156a                TinyGPS::f_get_position(float*, float*, unsigned long*)
+ .text._ZN7TinyGPS13term_completeEv
+                0x00001664      0x3b6 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+                0x00001664                TinyGPS::term_complete()
+ .text._ZN7TinyGPS6encodeEc
+                0x00001a1a       0xea E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+                0x00001a1a                TinyGPS::encode(char)
+ .text._ZN7LCD511010_LCD_WriteEhh
+                0x00001b04       0xac E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                0x00001b04                LCD5110::_LCD_Write(unsigned char, unsigned char)
+ .text._ZN7LCD51106updateEv
+                0x00001bb0       0x4e E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                0x00001bb0                LCD5110::update()
+ .text._ZN7LCD51108setPixelEjj
+                0x00001bfe       0x4e E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                0x00001bfe                LCD5110::setPixel(unsigned int, unsigned int)
+ .text._ZN7LCD51108clrPixelEjj
+                0x00001c4c       0x50 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                0x00001c4c                LCD5110::clrPixel(unsigned int, unsigned int)
+ .text._ZN7LCD511011_print_charEhii
+                0x00001c9c      0x2aa E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                0x00001c9c                LCD5110::_print_char(unsigned char, int, int)
+ .text._ZN7LCD51107setFontEPh
+                0x00001f46       0x38 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                0x00001f46                LCD5110::setFont(unsigned char*)
+ .text._ZN7LCD51105printEPcii
+                0x00001f7e       0xdc E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                0x00001f7e                LCD5110::print(char*, int, int)
+ .text._ZN7LCD51107InitLCDEi
+                0x0000205a       0xf0 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                0x0000205a                LCD5110::InitLCD(int)
+ .text._ZN7LCD5110C1Eiiiii
+                0x0000214a      0x154 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                0x0000214a                LCD5110::LCD5110(int, int, int, int, int)
+ .text._Z11serialEventv
+                0x0000229e        0x2 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                0x0000229e                serialEvent()
+ .text.__vector_18
+                0x000022a0       0x76 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                0x000022a0                __vector_18
+ .text._Z14serialEventRunv
+                0x00002316       0x26 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                0x00002316                serialEventRun()
+ .text.__vector_19
+                0x0000233c       0x76 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                0x0000233c                __vector_19
+ .text._ZN14HardwareSerial5beginEm
+                0x000023b2      0x10e E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                0x000023b2                HardwareSerial::begin(unsigned long)
+ .text._ZN14HardwareSerial9availableEv
+                0x000024c0       0x22 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                0x000024c0                HardwareSerial::available()
+ .text._ZN14HardwareSerial4peekEv
+                0x000024e2       0x40 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                0x000024e2                HardwareSerial::peek()
+ .text._ZN14HardwareSerial4readEv
+                0x00002522       0x52 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                0x00002522                HardwareSerial::read()
+ .text._ZN14HardwareSerial5flushEv
+                0x00002574       0x20 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                0x00002574                HardwareSerial::flush()
+ .text._ZN14HardwareSerial5writeEh
+                0x00002594       0x80 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                0x00002594                HardwareSerial::write(unsigned char)
+ .text._GLOBAL__I_rx_buffer
+                0x00002614       0xac E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+ .text.main     0x000026c0       0x1e E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(main.cpp.o)
+                0x000026c0                main
+ .text._ZN5Print5writeEPKhj
+                0x000026de       0x54 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+                0x000026de                Print::write(unsigned char const*, unsigned int)
+ .text.__vector_16
+                0x00002732       0x90 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring.c.o)
+                0x00002732                __vector_16
+ .text.millis   0x000027c2       0x1c E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring.c.o)
+                0x000027c2                millis
+ .text.micros   0x000027de       0x4c E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring.c.o)
+                0x000027de                micros
+ .text.delay    0x0000282a       0x4c E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring.c.o)
+                0x0000282a                delay
+ .text.init     0x00002876       0x76 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring.c.o)
+                0x00002876                init
+ .text.pinMode  0x000028ec       0x7e E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring_digital.c.o)
+                0x000028ec                pinMode
+ .text.fplib    0x0000296a        0x8 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x0000296a                __lesf2
+                0x0000296a                __nesf2
+                0x0000296a                __eqsf2
+                0x0000296a                __cmpsf2
+                0x0000296a                __ltsf2
+ .text.fplib    0x00002972        0x4 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x00002972                __divsf3
+ .text.fplib    0x00002976       0xcc e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x0000298c                __divsf3x
+                0x00002990                __divsf3_pse
+ .text.fplib    0x00002a42       0x7a e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x00002a46                __floatsisf
+                0x00002a42                __floatunsisf
+ .text.fplib    0x00002abc       0x48 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x00002abc                __fp_cmp
+ .text.fplib    0x00002b04        0xc e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00002b04                __fp_inf
+ .text.fplib    0x00002b10        0x6 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00002b10                __fp_nan
+ .text.fplib    0x00002b16        0xe e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x00002b16                __fp_pscA
+ .text.fplib    0x00002b24        0xe e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00002b24                __fp_pscB
+ .text.fplib    0x00002b32       0x22 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00002b32                __fp_round
+ .text.fplib    0x00002b54       0x44 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x00002b54                __fp_split3
+                0x00002b64                __fp_splitA
+ .text.fplib    0x00002b98        0xe e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x00002b98                __fp_zero
+                0x00002b9a                __fp_szero
+ .text.fplib    0x00002ba6        0x4 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x00002ba6                __mulsf3
+ .text.fplib    0x00002baa       0xc2 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x00002bc2                __mulsf3_pse
+                0x00002bbe                __mulsf3x
+ .text.libgcc   0x00002c6c       0x3e e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                0x00002c6c                __mulsi3
+ .text.libgcc   0x00002caa       0x26 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                0x00002caa                __divmodhi4
+                0x00002caa                _div
+ .text.libgcc   0x00002cd0       0x44 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                0x00002cd0                __udivmodsi4
+ .text.libgcc   0x00002d14       0x28 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                0x00002d14                __udivmodhi4
+ .text.libgcc   0x00002d3c        0xc e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_tablejump.o)
+                0x00002d40                __tablejump__
+                0x00002d3c                __tablejump2__
+ .text.libgcc   0x00002d48       0x38 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x00002d48                __prologue_saves__
+ .text.libgcc   0x00002d80       0x36 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x00002d80                __epilogue_restores__
+                0x00002db6                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002db6        0x0 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x00002db6                exit
+                0x00002db6                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002db6        0x4 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002dba                _etext = .
+
+.data           0x00800100       0x88 load address 0x00002dba
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100       0x37 build\GPS_Receiver.o
+ .data          0x00800137       0x40 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZTV14HardwareSerial
+                0x00800177       0x10 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                0x00800177                vtable for HardwareSerial
+ *(.gnu.linkonce.d*)
+                0x00800188                . = ALIGN (0x2)
+ *fill*         0x00800187        0x1 00
+                0x00800188                _edata = .
+                0x00800188                PROVIDE (__data_end, .)
+
+.bss            0x00800188      0x340
+                0x00800188                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.gps       0x00800188       0x73 build\GPS_Receiver.o
+                0x00800188                gps
+ .bss.myGLCD    0x008001fb      0x210 build\GPS_Receiver.o
+                0x008001fb                myGLCD
+ .bss.dataku    0x0080040b        0xa build\GPS_Receiver.o
+                0x0080040b                dataku
+ .bss.rx_buffer
+                0x00800415       0x44 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                0x00800415                rx_buffer
+ .bss.tx_buffer
+                0x00800459       0x44 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                0x00800459                tx_buffer
+ .bss.Serial    0x0080049d       0x22 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                0x0080049d                Serial
+ .bss.timer0_overflow_count
+                0x008004bf        0x4 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring.c.o)
+                0x008004bf                timer0_overflow_count
+ .bss.timer0_millis
+                0x008004c3        0x4 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring.c.o)
+                0x008004c3                timer0_millis
+ .bss.timer0_fract
+                0x008004c7        0x1 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring.c.o)
+ *(COMMON)
+                0x008004c8                PROVIDE (__bss_end, .)
+                0x00002dba                __data_load_start = LOADADDR (.data)
+                0x00002e42                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008004c8        0x0
+                0x008004c8                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008004c8                PROVIDE (__noinit_end, .)
+                0x008004c8                _end = .
+                0x008004c8                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(build\GPS_Receiver_uno.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+BigNumbers                                        E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(DefaultFonts.c.o)
+HardwareSerial::HardwareSerial(ring_buffer*, ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+HardwareSerial::HardwareSerial(ring_buffer*, ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+HardwareSerial::available()                       E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                                                  build\GPS_Receiver.o
+HardwareSerial::begin(unsigned long)              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                                                  build\GPS_Receiver.o
+HardwareSerial::begin(unsigned long, unsigned char) E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+HardwareSerial::end()                             E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+HardwareSerial::flush()                           E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+HardwareSerial::operator bool()                   E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+HardwareSerial::peek()                            E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+HardwareSerial::read()                            E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                                                  build\GPS_Receiver.o
+HardwareSerial::write(unsigned char)              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+LCD5110::InitLCD(int)                             E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                                                  build\GPS_Receiver.o
+LCD5110::LCD5110(int, int, int, int, int)         E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                                                  build\GPS_Receiver.o
+LCD5110::LCD5110(int, int, int, int, int)         E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::_LCD_Write(unsigned char, unsigned char) E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::_convert_float(char*, double, int, unsigned char) E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::_print_char(unsigned char, int, int)     E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::clrCircle(int, int, int)                 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::clrHLine(int, int, int)                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::clrLine(int, int, int, int)              E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::clrPixel(unsigned int, unsigned int)     E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::clrRect(int, int, int, int)              E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::clrRoundRect(int, int, int, int)         E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::clrScr()                                 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::clrVLine(int, int, int)                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::drawBitmap(int, int, unsigned char*, int, int) E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::drawCircle(int, int, int)                E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::drawHLine(int, int, int)                 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::drawLine(int, int, int, int)             E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::drawRect(int, int, int, int)             E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::drawRoundRect(int, int, int, int)        E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::drawVLine(int, int, int)                 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::fillScr()                                E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::invPixel(unsigned int, unsigned int)     E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::invert(bool)                             E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::invertText(bool)                         E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::print(String, int, int)                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::print(char*, int, int)                   E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                                                  build\GPS_Receiver.o
+LCD5110::printNumF(double, unsigned char, int, int, char, int, char) E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::printNumI(long, int, int, int, char)     E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::setContrast(int)                         E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::setFont(unsigned char*)                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                                                  build\GPS_Receiver.o
+LCD5110::setPixel(unsigned int, unsigned int)     E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+LCD5110::update()                                 E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                                                  build\GPS_Receiver.o
+MediumNumbers                                     E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(DefaultFonts.c.o)
+Print::print(Printable const&)                    E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::print(String const&)                       E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::print(__FlashStringHelper const*)          E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::print(char const*)                         E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::print(char)                                E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::print(double, int)                         E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::print(int, int)                            E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::print(long, int)                           E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::print(unsigned char, int)                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::print(unsigned int, int)                   E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::print(unsigned long, int)                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::printFloat(double, unsigned char)          E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::printNumber(unsigned long, unsigned char)  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::println()                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::println(Printable const&)                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::println(String const&)                     E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::println(__FlashStringHelper const*)        E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::println(char const*)                       E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::println(char)                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::println(double, int)                       E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::println(int, int)                          E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::println(long, int)                         E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::println(unsigned char, int)                E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::println(unsigned int, int)                 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::println(unsigned long, int)                E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::write(char const*)                         E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+Print::write(unsigned char const*, unsigned int)  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+Serial                                            E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                                                  build\GPS_Receiver.o
+SmallFont                                         E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(DefaultFonts.c.o)
+String::String(String const&)                     E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::String(String const&)                     E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::String(char const*)                       E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::String(char const*)                       E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::String(char)                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::String(char)                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::String(int, unsigned char)                E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::String(int, unsigned char)                E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::String(long, unsigned char)               E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::String(long, unsigned char)               E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::String(unsigned char, unsigned char)      E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::String(unsigned char, unsigned char)      E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::String(unsigned int, unsigned char)       E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::String(unsigned int, unsigned char)       E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::String(unsigned long, unsigned char)      E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::String(unsigned long, unsigned char)      E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::changeBuffer(unsigned int)                E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::charAt(unsigned int) const                E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::compareTo(String const&) const            E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::concat(String const&)                     E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::concat(char const*)                       E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::concat(char const*, unsigned int)         E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::concat(char)                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::concat(int)                               E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::concat(long)                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::concat(unsigned char)                     E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::concat(unsigned int)                      E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::concat(unsigned long)                     E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::copy(char const*, unsigned int)           E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::endsWith(String const&) const             E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::equals(String const&) const               E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::equals(char const*) const                 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::equalsIgnoreCase(String const&) const     E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::getBytes(unsigned char*, unsigned int, unsigned int) const E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+String::indexOf(String const&) const              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::indexOf(String const&, unsigned int) const E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::indexOf(char) const                       E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::indexOf(char, unsigned int) const         E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::invalidate()                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::lastIndexOf(String const&) const          E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::lastIndexOf(String const&, unsigned int) const E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::lastIndexOf(char) const                   E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::lastIndexOf(char, unsigned int) const     E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::operator<(String const&) const            E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::operator<=(String const&) const           E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::operator=(String const&)                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::operator=(char const*)                    E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::operator>(String const&) const            E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::operator>=(String const&) const           E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::operator[](unsigned int)                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::operator[](unsigned int) const            E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+String::replace(String const&, String const&)     E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::replace(char, char)                       E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::reserve(unsigned int)                     E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::setCharAt(unsigned int, char)             E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::startsWith(String const&) const           E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::startsWith(String const&, unsigned int) const E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::substring(unsigned int) const             E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::substring(unsigned int, unsigned int) const E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::toInt() const                             E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::toLowerCase()                             E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::toUpperCase()                             E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::trim()                                    E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::~String()                                 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+String::~String()                                 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+TinyFont                                          E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(DefaultFonts.c.o)
+                                                  build\GPS_Receiver.o
+TinyGPS::GPS_INVALID_F_ALTITUDE                   E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+TinyGPS::GPS_INVALID_F_ANGLE                      E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+TinyGPS::GPS_INVALID_F_SPEED                      E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+TinyGPS::TinyGPS()                                E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+                                                  build\GPS_Receiver.o
+TinyGPS::TinyGPS()                                E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+TinyGPS::cardinal(float)                          E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+TinyGPS::course_to(float, float, float, float)    E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+TinyGPS::crack_datetime(int*, unsigned char*, unsigned char*, unsigned char*, unsigned char*, unsigned char*, unsigned char*, unsigned long*) E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+TinyGPS::distance_between(float, float, float, float) E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+TinyGPS::encode(char)                             E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+                                                  build\GPS_Receiver.o
+TinyGPS::f_altitude()                             E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+                                                  build\GPS_Receiver.o
+TinyGPS::f_course()                               E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+TinyGPS::f_get_position(float*, float*, unsigned long*) E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+                                                  build\GPS_Receiver.o
+TinyGPS::f_speed_kmph()                           E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+                                                  build\GPS_Receiver.o
+TinyGPS::f_speed_knots()                          E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+TinyGPS::f_speed_mph()                            E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+TinyGPS::f_speed_mps()                            E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+TinyGPS::from_hex(char)                           E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+TinyGPS::get_datetime(unsigned long*, unsigned long*, unsigned long*) E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+TinyGPS::get_position(long*, long*, unsigned long*) E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+TinyGPS::gpsatol(char const*)                     E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+TinyGPS::gpsstrcmp(char const*, char const*)      E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+TinyGPS::parse_decimal()                          E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+TinyGPS::parse_degrees()                          E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+TinyGPS::stats(unsigned long*, unsigned short*, unsigned short*) E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+                                                  build\GPS_Receiver.o
+TinyGPS::term_complete()                          E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+__addsf3                                          e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan2.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+__addsf3x                                         e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o)
+__bad_interrupt                                   e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__brkval                                          e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+__bss_end                                         e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+__bss_start                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+__cmpsf2                                          e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__ctors_end                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+__ctors_start                                     e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+__ctype_isfalse                                   e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(isspace.o)
+__ctype_istrue                                    e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+__cxa_guard_abort                                 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(new.cpp.o)
+__cxa_guard_acquire                               E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(new.cpp.o)
+__cxa_guard_release                               E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(new.cpp.o)
+__cxa_pure_virtual                                E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(new.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+__data_end                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__data_load_start                                 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__data_start                                      e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__divmodhi4                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+__divmodsi4                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+__divsf3                                          e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(inverse.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+__divsf3_pse                                      e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan2.o)
+__divsf3x                                         e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o)
+__do_clear_bss                                    e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(dtoa_prf.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(dtostrf.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring.c.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                                                  build\GPS_Receiver.o
+__do_copy_data                                    e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(dtoa_prf.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(dtostrf.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+                                                  build\GPS_Receiver.o
+__do_global_ctors                                 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                                                  build\GPS_Receiver.o
+__epilogue_restores__                             e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(dtoa_prf.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+__eqsf2                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+__fixsfsi                                         e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+__fixunssfsi                                      e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+__floatsisf                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+__floatunsisf                                     e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+__flp                                             e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+__fp_cmp                                          e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__fp_inf                                          e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+__fp_mpack                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sqrt.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
+__fp_nan                                          e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sqrt.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan2.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+__fp_norm2                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sqrt.o)
+__fp_powser                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o)
+__fp_powsodd                                      e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
+__fp_pscA                                         e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan2.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+__fp_pscB                                         e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan2.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+__fp_rempio2                                      e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sin.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cos.o)
+__fp_round                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan2.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o)
+__fp_sinus                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_sinus.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sin.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cos.o)
+__fp_split3                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan2.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+__fp_splitA                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sqrt.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_rempio2.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+__fp_szero                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+__fp_zero                                         e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan2.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+__ftoa_engine                                     e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ftoa_engine.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(dtoa_prf.o)
+__gesf2                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+__gtsf2                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+__heap_end                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+__heap_start                                      e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+__init                                            e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__lesf2                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+__ltsf2                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+__malloc_heap_end                                 e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+__malloc_heap_start                               e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+__malloc_margin                                   e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+__mulhi_const_10                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mul10.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atoi.o)
+__mulsf3                                          e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_powsodd.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(square.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+__mulsf3_pse                                      e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__mulsf3x                                         e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o)
+__mulsi3                                          e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+__mulsi_const_10                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mulsi10.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atol.o)
+__nesf2                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__prologue_saves__                                e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(dtoa_prf.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+__stack                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__subsf3                                          e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+__tablejump2__                                    e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_tablejump.o)
+__tablejump__                                     e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_tablejump.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ctors.o)
+__udivmodhi4                                      e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(utoa.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+__udivmodsi4                                      e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+__unordsf2                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+__vector_1                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_10                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_11                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_12                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_13                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_14                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_15                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_16                                       E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring.c.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_17                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_18                                       E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_19                                       E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_2                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_20                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_21                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_22                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_23                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_24                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_25                                       e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_3                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_4                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_5                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_6                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_7                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_8                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_9                                        e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vector_default                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+__vectors                                         e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+_div                                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+_exit                                             e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+atan                                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan2.o)
+atan2                                             e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan2.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+atoi                                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atoi.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+atol                                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atol.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+cos                                               e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(cos.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+dataku                                            build\GPS_Receiver.o
+delay                                             E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring.c.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                                                  build\GPS_Receiver.o
+delayMicroseconds                                 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring.c.o)
+digitalRead                                       E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring_digital.c.o)
+digitalWrite                                      E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring_digital.c.o)
+digital_pin_to_bit_mask_PGM                       E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring_digital.c.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+digital_pin_to_port_PGM                           E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring_digital.c.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+digital_pin_to_timer_PGM                          E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring_digital.c.o)
+dtoa_prf                                          e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(dtoa_prf.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(dtostrf.o)
+dtostrf                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(dtostrf.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+                                                  build\GPS_Receiver.o
+exit                                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+free                                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(new.cpp.o)
+gps                                               build\GPS_Receiver.o
+init                                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring.c.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(main.cpp.o)
+inverse                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(inverse.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o)
+isspace                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(isspace.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+itoa                                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+loop                                              build\GPS_Receiver.o
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(main.cpp.o)
+ltoa                                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+main                                              E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(main.cpp.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm328p.o
+malloc                                            e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(malloc.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(new.cpp.o)
+memcpy                                            e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memmove.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+memmove                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(memmove.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+micros                                            E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring.c.o)
+millis                                            E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring.c.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+                                                  build\GPS_Receiver.o
+myGLCD                                            build\GPS_Receiver.o
+operator delete(void*)                            E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(new.cpp.o)
+operator delete[](void*)                          E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(new.cpp.o)
+operator new(unsigned int)                        E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(new.cpp.o)
+operator new[](unsigned int)                      E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(new.cpp.o)
+operator+(StringSumHelper const&, String const&)  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+operator+(StringSumHelper const&, char const*)    E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+operator+(StringSumHelper const&, char)           E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+operator+(StringSumHelper const&, int)            E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+operator+(StringSumHelper const&, long)           E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+operator+(StringSumHelper const&, unsigned char)  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+operator+(StringSumHelper const&, unsigned int)   E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+operator+(StringSumHelper const&, unsigned long)  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+pinMode                                           E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring_digital.c.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+port_to_input_PGM                                 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring_digital.c.o)
+port_to_mode_PGM                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring_digital.c.o)
+port_to_output_PGM                                E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring_digital.c.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(LCD5110_Graph.cpp.o)
+realloc                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(realloc.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+rx_buffer                                         E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+serialEvent()                                     E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+serialEventRun()                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(main.cpp.o)
+setup                                             build\GPS_Receiver.o
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(main.cpp.o)
+sin                                               e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sin.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+sqrt                                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(sqrt.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/lib_uno_16.a(TinyGPS.cpp.o)
+square                                            e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(square.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a(atan.o)
+strchr                                            e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+strcmp                                            e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+strcpy                                            e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+strncmp                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncmp.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+strncpy                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+strrchr                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrchr.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+strrev                                            e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(utoa.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                                                  e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+strstr                                            e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+timer0_millis                                     E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring.c.o)
+timer0_overflow_count                             E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(wiring.c.o)
+tolower                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(tolower.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+toupper                                           e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(toupper.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+tx_buffer                                         E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+ultoa                                             e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+utoa                                              e:/codeblocks-arduino baru/codeblocks/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(utoa.o)
+                                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(WString.cpp.o)
+vtable for HardwareSerial                         E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
+vtable for Print                                  E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(Print.cpp.o)
+vtable for Stream                                 E:\Github for wgindows\GPS_Receiver\build\/core_uno_16.a(HardwareSerial.cpp.o)
